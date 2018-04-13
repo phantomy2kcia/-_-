@@ -1,0 +1,260 @@
+{"frames": [
+
+{
+	"filename": "xPickup/xpickup0001.png",
+	"frame": {"x":261,"y":2,"w":294,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":443,"y":347,"w":294,"h":186},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0002.png",
+	"frame": {"x":557,"y":2,"w":270,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":466,"y":350,"w":270,"h":160},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0003.png",
+	"frame": {"x":829,"y":2,"w":266,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":466,"y":353,"w":266,"h":157},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0004.png",
+	"frame": {"x":852,"y":346,"w":251,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":482,"y":345,"w":251,"h":164},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0005.png",
+	"frame": {"x":2,"y":784,"w":251,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":477,"y":303,"w":251,"h":206},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0006.png",
+	"frame": {"x":2,"y":2,"w":257,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":458,"y":267,"w":257,"h":238},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0007.png",
+	"frame": {"x":211,"y":242,"w":215,"h":257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":458,"y":248,"w":215,"h":257},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0008.png",
+	"frame": {"x":1097,"y":2,"w":200,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":475,"y":256,"w":200,"h":254},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0009.png",
+	"frame": {"x":218,"y":501,"w":218,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":443,"y":249,"w":218,"h":256},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0010.png",
+	"frame": {"x":428,"y":190,"w":205,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":466,"y":257,"w":205,"h":253},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0011.png",
+	"frame": {"x":2,"y":518,"w":214,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":466,"y":246,"w":214,"h":264},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0012.png",
+	"frame": {"x":2,"y":242,"w":207,"h":274},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":482,"y":235,"w":207,"h":274},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0013.png",
+	"frame": {"x":635,"y":164,"w":215,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":475,"y":276,"w":215,"h":233},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0014.png",
+	"frame": {"x":852,"y":161,"w":243,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":448,"y":322,"w":243,"h":183},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0015.png",
+	"frame": {"x":820,"y":512,"w":238,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":448,"y":351,"w":238,"h":154},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0016.png",
+	"frame": {"x":1060,"y":512,"w":206,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":474,"y":356,"w":206,"h":154},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xPickup/xpickup0017.png",
+	"frame": {"x":733,"y":668,"w":231,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":443,"y":347,"w":231,"h":158},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0001.png",
+	"frame": {"x":966,"y":668,"w":99,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":455,"y":307,"w":99,"h":202},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0002.png",
+	"frame": {"x":615,"y":673,"w":116,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":430,"y":293,"w":116,"h":217},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0003.png",
+	"frame": {"x":1105,"y":258,"w":140,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":407,"y":287,"w":140,"h":223},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0004.png",
+	"frame": {"x":447,"y":673,"w":166,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":282,"w":166,"h":228},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0005.png",
+	"frame": {"x":639,"y":399,"w":179,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":361,"y":282,"w":179,"h":227},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0006.png",
+	"frame": {"x":255,"y":759,"w":190,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":342,"y":280,"w":190,"h":227},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0007.png",
+	"frame": {"x":438,"y":445,"w":199,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":324,"y":280,"w":199,"h":226},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0008.png",
+	"frame": {"x":1067,"y":668,"w":202,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":310,"y":415,"w":202,"h":95},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0009.png",
+	"frame": {"x":447,"y":903,"w":206,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":432,"w":206,"h":83},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0010.png",
+	"frame": {"x":655,"y":901,"w":206,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":296,"y":433,"w":206,"h":82},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0011.png",
+	"frame": {"x":1067,"y":765,"w":206,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":436,"w":206,"h":78},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0012.png",
+	"frame": {"x":1067,"y":845,"w":208,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":438,"w":208,"h":75},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zDeadFromButcher/deadFromButcher0013.png",
+	"frame": {"x":733,"y":828,"w":209,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":442,"w":209,"h":71},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zzHead/CowHead.png",
+	"frame": {"x":639,"y":628,"w":74,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":473,"y":469,"w":74,"h":43},
+	"sourceSize": {"w":1024,"h":1024}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Cow2.png",
+	"format": "RGBA8888",
+	"size": {"w":1299,"h":992},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:702759b78aae2023b5eaac31075ebf7d:010e944114b60a6402ba30a2704a4769:c0e063dc908241139f0a8ec0e16c8cb6$"
+}
+}

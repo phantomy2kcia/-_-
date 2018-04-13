@@ -1,0 +1,252 @@
+{"frames": [
+
+{
+	"filename": "ammo0001.png",
+	"frame": {"x":663,"y":200,"w":120,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":461,"y":324,"w":120,"h":190},
+	"sourceSize": {"w":120,"h":190}
+},
+{
+	"filename": "ammo0002.png",
+	"frame": {"x":1265,"y":2,"w":127,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":456,"y":324,"w":127,"h":192},
+	"sourceSize": {"w":127,"h":192}
+},
+{
+	"filename": "ammo0003.png",
+	"frame": {"x":863,"y":2,"w":132,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":452,"y":323,"w":132,"h":194},
+	"sourceSize": {"w":132,"h":194}
+},
+{
+	"filename": "ammo0004.png",
+	"frame": {"x":440,"y":2,"w":139,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":447,"y":323,"w":139,"h":196},
+	"sourceSize": {"w":139,"h":196}
+},
+{
+	"filename": "ammo0005.png",
+	"frame": {"x":2,"y":2,"w":144,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":443,"y":322,"w":144,"h":199},
+	"sourceSize": {"w":144,"h":199}
+},
+{
+	"filename": "ammo0006.png",
+	"frame": {"x":907,"y":198,"w":140,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":446,"y":327,"w":140,"h":192},
+	"sourceSize": {"w":140,"h":192}
+},
+{
+	"filename": "ammo0007.png",
+	"frame": {"x":2,"y":203,"w":135,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":450,"y":331,"w":135,"h":186},
+	"sourceSize": {"w":135,"h":186}
+},
+{
+	"filename": "ammo0008.png",
+	"frame": {"x":1905,"y":2,"w":130,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":454,"y":336,"w":130,"h":179},
+	"sourceSize": {"w":130,"h":179}
+},
+{
+	"filename": "ammo0009.png",
+	"frame": {"x":413,"y":203,"w":125,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":457,"y":330,"w":125,"h":184},
+	"sourceSize": {"w":125,"h":184}
+},
+{
+	"filename": "ammo0010.png",
+	"frame": {"x":1523,"y":2,"w":120,"h":188},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":461,"y":324,"w":120,"h":188},
+	"sourceSize": {"w":120,"h":188}
+},
+{
+	"filename": "gmo0001.png",
+	"frame": {"x":540,"y":200,"w":121,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":460,"y":324,"w":121,"h":190},
+	"sourceSize": {"w":121,"h":190}
+},
+{
+	"filename": "gmo0002.png",
+	"frame": {"x":1333,"y":196,"w":127,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":456,"y":324,"w":127,"h":192},
+	"sourceSize": {"w":127,"h":192}
+},
+{
+	"filename": "gmo0003.png",
+	"frame": {"x":997,"y":2,"w":132,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":452,"y":323,"w":132,"h":194},
+	"sourceSize": {"w":132,"h":194}
+},
+{
+	"filename": "gmo0004.png",
+	"frame": {"x":581,"y":2,"w":139,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":447,"y":323,"w":139,"h":196},
+	"sourceSize": {"w":139,"h":196}
+},
+{
+	"filename": "gmo0005.png",
+	"frame": {"x":148,"y":2,"w":144,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":443,"y":322,"w":144,"h":199},
+	"sourceSize": {"w":144,"h":199}
+},
+{
+	"filename": "gmo0006.png",
+	"frame": {"x":1049,"y":198,"w":140,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":446,"y":327,"w":140,"h":192},
+	"sourceSize": {"w":140,"h":192}
+},
+{
+	"filename": "gmo0007.png",
+	"frame": {"x":139,"y":203,"w":135,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":450,"y":331,"w":135,"h":186},
+	"sourceSize": {"w":135,"h":186}
+},
+{
+	"filename": "gmo0008.png",
+	"frame": {"x":1772,"y":2,"w":131,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":453,"y":336,"w":131,"h":179},
+	"sourceSize": {"w":131,"h":179}
+},
+{
+	"filename": "gmo0009.png",
+	"frame": {"x":1645,"y":2,"w":125,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":457,"y":330,"w":125,"h":184},
+	"sourceSize": {"w":125,"h":184}
+},
+{
+	"filename": "gmo0010.png",
+	"frame": {"x":1462,"y":196,"w":121,"h":188},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":460,"y":324,"w":121,"h":188},
+	"sourceSize": {"w":121,"h":188}
+},
+{
+	"filename": "grenade0001.png",
+	"frame": {"x":785,"y":200,"w":120,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":461,"y":324,"w":120,"h":190},
+	"sourceSize": {"w":120,"h":190}
+},
+{
+	"filename": "grenade0002.png",
+	"frame": {"x":1394,"y":2,"w":127,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":456,"y":324,"w":127,"h":192},
+	"sourceSize": {"w":127,"h":192}
+},
+{
+	"filename": "grenade0003.png",
+	"frame": {"x":1131,"y":2,"w":132,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":452,"y":323,"w":132,"h":194},
+	"sourceSize": {"w":132,"h":194}
+},
+{
+	"filename": "grenade0004.png",
+	"frame": {"x":722,"y":2,"w":139,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":447,"y":323,"w":139,"h":196},
+	"sourceSize": {"w":139,"h":196}
+},
+{
+	"filename": "grenade0005.png",
+	"frame": {"x":294,"y":2,"w":144,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":443,"y":322,"w":144,"h":199},
+	"sourceSize": {"w":144,"h":199}
+},
+{
+	"filename": "grenade0006.png",
+	"frame": {"x":1191,"y":198,"w":140,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":446,"y":327,"w":140,"h":192},
+	"sourceSize": {"w":140,"h":192}
+},
+{
+	"filename": "grenade0007.png",
+	"frame": {"x":276,"y":203,"w":135,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":450,"y":331,"w":135,"h":186},
+	"sourceSize": {"w":135,"h":186}
+},
+{
+	"filename": "grenade0008.png",
+	"frame": {"x":1834,"y":183,"w":130,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":454,"y":336,"w":130,"h":179},
+	"sourceSize": {"w":130,"h":179}
+},
+{
+	"filename": "grenade0009.png",
+	"frame": {"x":1707,"y":188,"w":125,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":457,"y":330,"w":125,"h":184},
+	"sourceSize": {"w":125,"h":184}
+},
+{
+	"filename": "grenade0010.png",
+	"frame": {"x":1585,"y":192,"w":120,"h":188},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":461,"y":324,"w":120,"h":188},
+	"sourceSize": {"w":120,"h":188}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ChestsAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":2037,"h":392},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:475c985fcf161a99c82a1735ae961894:b3907827bbd9beecd4cae3fde43234f0:59107112004bba5cd58f392fba14acb8$"
+}
+}

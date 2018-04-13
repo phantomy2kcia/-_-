@@ -1,0 +1,204 @@
+{"frames": [
+
+{
+	"filename": "xFlying/xFlying0001.png",
+	"frame": {"x":2,"y":2,"w":238,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":367,"y":376,"w":238,"h":197},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xFlying/xFlying0002.png",
+	"frame": {"x":242,"y":2,"w":239,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":370,"y":374,"w":239,"h":193},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xFlying/xFlying0003.png",
+	"frame": {"x":483,"y":2,"w":239,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":373,"y":373,"w":239,"h":189},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xFlying/xFlying0004.png",
+	"frame": {"x":724,"y":2,"w":240,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":376,"y":371,"w":240,"h":185},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xFlying/xFlying0005.png",
+	"frame": {"x":966,"y":2,"w":240,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":379,"y":369,"w":240,"h":182},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xFlying/xFlying0006.png",
+	"frame": {"x":726,"y":189,"w":240,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":376,"y":371,"w":240,"h":184},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xFlying/xFlying0007.png",
+	"frame": {"x":485,"y":193,"w":239,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":374,"y":372,"w":239,"h":187},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xFlying/xFlying0008.png",
+	"frame": {"x":243,"y":197,"w":240,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":371,"y":373,"w":240,"h":191},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "xFlying/xFlying0009.png",
+	"frame": {"x":2,"y":201,"w":239,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":369,"y":374,"w":239,"h":194},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0001.png",
+	"frame": {"x":243,"y":390,"w":201,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":343,"y":420,"w":201,"h":94},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0002.png",
+	"frame": {"x":446,"y":390,"w":201,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":342,"y":420,"w":201,"h":94},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0003.png",
+	"frame": {"x":852,"y":375,"w":201,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":341,"y":420,"w":201,"h":94},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0004.png",
+	"frame": {"x":649,"y":382,"w":201,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":342,"y":418,"w":201,"h":96},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0005.png",
+	"frame": {"x":1582,"y":308,"w":201,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":343,"y":374,"w":201,"h":140},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0006.png",
+	"frame": {"x":1171,"y":344,"w":203,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":341,"y":374,"w":203,"h":140},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0007.png",
+	"frame": {"x":1376,"y":316,"w":204,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":340,"y":367,"w":204,"h":147},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0008.png",
+	"frame": {"x":1372,"y":161,"w":201,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":343,"y":361,"w":201,"h":153},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0009.png",
+	"frame": {"x":1602,"y":2,"w":191,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":347,"y":359,"w":191,"h":155},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0010.png",
+	"frame": {"x":1406,"y":2,"w":194,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":346,"y":358,"w":194,"h":156},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0011.png",
+	"frame": {"x":1208,"y":2,"w":196,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":345,"y":357,"w":196,"h":157},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0012.png",
+	"frame": {"x":1171,"y":186,"w":199,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":344,"y":358,"w":199,"h":156},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0013.png",
+	"frame": {"x":968,"y":186,"w":201,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":343,"y":357,"w":201,"h":157},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0014.png",
+	"frame": {"x":1575,"y":160,"w":203,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":342,"y":368,"w":203,"h":146},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "zSlice death/slice0015.png",
+	"frame": {"x":2,"y":397,"w":206,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":340,"y":442,"w":206,"h":72},
+	"sourceSize": {"w":1024,"h":1024}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Butcher2.png",
+	"format": "RGBA8888",
+	"size": {"w":1810,"h":486},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:32988785cb0838435d19f6e2096d2484:5406dbad9266e619e6deb197a40f31ab:5992ecae489cd1a865b71446d7d9a2c2$"
+}
+}

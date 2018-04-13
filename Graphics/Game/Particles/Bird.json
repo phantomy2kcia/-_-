@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "birdfly0001.png",
+	"frame": {"x":78,"y":2,"w":69,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":477,"y":461,"w":69,"h":52},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "birdfly0002.png",
+	"frame": {"x":2,"y":2,"w":74,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":475,"y":461,"w":74,"h":52},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "birdfly0003.png",
+	"frame": {"x":544,"y":2,"w":78,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":473,"y":461,"w":78,"h":36},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "birdfly0004.png",
+	"frame": {"x":461,"y":2,"w":81,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":472,"y":461,"w":81,"h":36},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "birdfly0005.png",
+	"frame": {"x":696,"y":2,"w":85,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":470,"y":461,"w":85,"h":34},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "birdfly0006.png",
+	"frame": {"x":783,"y":2,"w":83,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":471,"y":461,"w":83,"h":34},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "birdfly0007.png",
+	"frame": {"x":149,"y":2,"w":80,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":472,"y":455,"w":80,"h":41},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "birdfly0008.png",
+	"frame": {"x":231,"y":2,"w":77,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":474,"y":455,"w":77,"h":41},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "birdfly0009.png",
+	"frame": {"x":310,"y":2,"w":75,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":474,"y":456,"w":75,"h":41},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "birdfly0010.png",
+	"frame": {"x":387,"y":2,"w":72,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":476,"y":456,"w":72,"h":41},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "birdfly0011.png",
+	"frame": {"x":624,"y":2,"w":70,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":476,"y":461,"w":70,"h":36},
+	"sourceSize": {"w":1024,"h":1024}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Bird.png",
+	"format": "RGBA8888",
+	"size": {"w":868,"h":56},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:51f83e4ba908f3382488925bf6e195df:1bb94dcff15170ff830705623c1465a6:8ea6d007658d82e9a677a680b096c6e2$"
+}
+}
